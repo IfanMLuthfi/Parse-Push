@@ -1,2 +1,6 @@
 # Parse-Push
-Percobaan pertama
+
+Percobaan pertama Ifan Muhammad Luthfi
+
+Aplikasi ini adalah aplikasi
+aplikasi ngulik
